@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm NISHIKA!</h1>
-<p align="center">Building real projects • Learning daily • Growing step by step</p>
+## Hi, I'm NISHIKA!
 
-## 🚀 About Me
 - 📚 BCA Student in Computer Science
 - 🚀 Focused on **practical skills over theory**  
 - 💡 Learn by building, not just watching  
